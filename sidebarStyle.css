@@ -1,0 +1,17 @@
+/* Heavy inspiration from w3schools.*/
+.sidebar
+{
+    height: 100%;
+    width: 100px;
+    position: fixed;
+    background-color: darkblue;
+    overflow-x: hidden;
+
+}
+
+.sidebar a
+{
+    font-size:25px;
+    color: white;
+
+}
