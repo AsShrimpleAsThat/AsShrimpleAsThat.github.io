@@ -40,3 +40,9 @@ figcaption
     color: rgb(68, 68, 68);
     margin-bottom: 16px;
 }
+
+img
+{
+    max-width: auto;
+    max-height: auto;
+}
